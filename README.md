@@ -9,6 +9,6 @@ Link for all the CS Fundamentals notes shared till now :
 
 - 3. DBMS/SQL notes - https://lnkd.in/dE9-xfBA
 
-- 4. CN - https://www.linkedin.com/feed/update/urn:li:activity:6904693012644147201/
+- 4. CN - https://github.com/riti2409/Computer-networks
 
 ** Resources for preparation of placements-https://lnkd.in/d6zpHj4P **
